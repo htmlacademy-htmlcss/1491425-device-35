@@ -1,7 +1,7 @@
 # Личный проект «Девайс»
 
-* Студент: [Руслан Габжамилов](https://up.htmlacademy.ru/htmlcss/35/user/1491425).
-* Наставник: `Неизвестно`.
+- Студент: [Руслан Габжамилов](https://up.htmlacademy.ru/htmlcss/35/user/1491425).
+- Наставник: [Татьяна Симоненко](https://htmlacademy.ru/profile/tatien).
 
 ---
 
